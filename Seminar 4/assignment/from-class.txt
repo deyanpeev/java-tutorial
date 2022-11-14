@@ -1,0 +1,16 @@
+Create an electric store that manages computers.
+Computer:
+    size
+    peripheral: string[]
+    brand
+    canPLayGames?
+
+    Laptop
+    Desktop
+    Tablet
+
+
+Presentable
+Computable
+Interactable
+Movable
